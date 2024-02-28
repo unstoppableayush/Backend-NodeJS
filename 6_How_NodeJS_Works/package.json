@@ -1,0 +1,11 @@
+{
+  "name": "5_file_handling_in_nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "file.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
