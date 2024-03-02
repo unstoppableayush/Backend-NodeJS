@@ -20,7 +20,7 @@ app.get('/api/users', (req, res)=>{
     return res.json(users);
 })
 
-app.route('/api/users/:id').get('/api/users/:id', (req, res)=>{
+app.route('/api/users/:id').get((req, res)=>{
     
     const id = Number(req.params.id);
     const user = users.find(user => user.id === id);
