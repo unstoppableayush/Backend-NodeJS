@@ -3,7 +3,7 @@ const { connectToMongoDB } = require('./connect')
 const path = require('path')
 const URL = require('./models/url');
 const cookieParser = require('cookie-parser')
-const {restrictToLoggedinUserOnly} = require('./middlewares/auth')
+const {restrictToLoggedinUserOnly , checkAuth} = require('./middlewares/auth')
 
 const urlRoute = require('./routes/url')
 const staticRoute = require('./routes/staticRoute')
@@ -23,7 +23,7 @@ app.use(express.urlencoded({extended:false})) //for form data
 app.use(cookieParser())
 
 app.use("/url" , restrictToLoggedinUserOnly , urlRoute)
-app.use("/" , staticRoute)
+app.use("/" , checkAuth , staticRoute)
 app.use("/user", userRoute)
 
 // Server Side Rendering -> 
@@ -69,7 +69,7 @@ app.get("/url/:shortId", async (req, res) => {
         },
       }
     );
-    res.redirect(entry.redirectURL);
+    res.redirect(entry.redirectURL); 
  });
 
 app.listen(PORT , ()=> console.log(`Server started at port : ${PORT}`))
