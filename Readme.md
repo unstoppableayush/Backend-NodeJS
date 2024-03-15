@@ -3,56 +3,28 @@ Following Mastering NodeJS tutorial of Piyush Garg.
 
 | S.No. | Topic        | Points |
 | ---    |  ---         | ----- |
-| 01. |   What is NodeJS ? |  
-* JavaScript Engine
-* Benefits of NodeJS
-* What is NodeJS
+| 01. |   What is NodeJS ? |  <ul><li> JavaScript Engine </li><li> Benefits of NodeJS </li><li> What is NodeJS </li></ul>
 |
-| 02. | NodeJS Installation |
-* Steps to install NodeJS
-* What is npm?
- |
-| 03. | Hello World NodeJS|
-* Print Hello World using NodeJS
+| 02. | NodeJS Installation |<li> Steps to install NodeJS What is npm |
+| 03. | Hello World NodeJS| <li> Print Hello World using NodeJS
 |
-| 04. | Modules in NodeJS |
-* Spiliting funtions using modular approch
-* De-structring 
+| 04. | Modules in NodeJS |<li> Spiliting funtions using modular approch<li> De-structring 
  |
-| 05. | File Handling in NodeJS |
-* File Handling Module (fs)
-* Synchronous call and Async call in fs module
-* CRUD operation on files. 
+| 05. | File Handling in NodeJS |<li> File Handling Module (fs)<li> Synchronous call and Async call in fs module<li> CRUD operation on files. 
  |
-| 06. | How NodeJS Works |
-* Client Server Architecture
-* How nodejs work internally
-* Request -> Blocking & Non-Blocking
+| 06. | How NodeJS Works |<li> Client Server Architecture<li> How nodejs work internally<li> Request -> Blocking & Non-Blocking
  |
-| 07. | Building Http Server in NodeJS |
-* create a http server using `http` module
-* create and run a http server
+| 07. | Building Http Server in NodeJS |<li> create a http server using `http` module<li> create and run a http server
  |
-| 08. | Handling Url |
-* Structure of URL(Uniform Resource Locator)
-* How to user `url` module in server
+| 08. | Handling Url |<li> Structure of URL(Uniform Resource Locator)<li> How to user `url` module in server
  |
-| 09. | Http methods |
-* GET , POST , PUT , PATCH , DELETE
-* Make All these requests using Http mehtod
+| 09. | Http methods |<li> GET , POST , PUT , PATCH , DELETE<li> Make All these requests using Http mehtod
  |
-| 10. | Getting Start with Express |
-* Installing express
-* Made express server and requests
+| 10. | Getting Start with Express |<li> Installing express<li> Made express server and requests
  |
-| 11. | How Versioning Works in NodeJS ? |
-* About Versioning of NodeJS
-* Minor Fix, Recommended Bug Fix , Major Realese
+| 11. | How Versioning Works in NodeJS ? |<li> About Versioning of NodeJS<li> Minor Fix, Recommended Bug Fix , Major Realese
  |
-| 12. | What is Rest API ? |
-* Restfull API Rules
-    * Work on Client Server Architecture
-    * All Respect all Http methods
+| 12. | What is Rest API ? |<li> Restfull API Rules <li> Work on Client Server Architecture <li> All Respect all Http methods
  |
 | 13. | Building Rest API using NodeJS and Express | |
 | 14. | Intro to Postman for Rest API | |
