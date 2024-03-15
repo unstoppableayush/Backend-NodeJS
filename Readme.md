@@ -3,8 +3,7 @@ Following Mastering NodeJS tutorial of Piyush Garg.
 
 | S.No. | Topic        | Points |
 | ---    |  ---         | ----- |
-| 01. |   What is NodeJS ? |  <ul><li> JavaScript Engine </li><li> Benefits of NodeJS </li><li> What is NodeJS </li></ul>
-|
+| 01. |   What is NodeJS ? |  <ul><li> JavaScript Engine </li><li> Benefits of NodeJS </li><li> What is NodeJS </li></ul>|
 | 02. | NodeJS Installation |<li> Steps to install NodeJS What is npm |
 | 03. | Hello World NodeJS| <li> Print Hello World using NodeJS
 |
