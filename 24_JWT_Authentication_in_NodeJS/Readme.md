@@ -9,4 +9,4 @@
 => No states
 => We use JWT(JSON Web Tokens) Tokens 
 => Maintain the state on local browser using encoded msg of payload(token) and secret key.
-=> Token should be secret.
+=> Secret should be secret.
