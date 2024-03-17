@@ -4,7 +4,7 @@ Following Mastering NodeJS tutorial of Piyush Garg.
 | S.No. | Topic        | Points |
 | ---    |  ---         | ----- |
 | 01. |   What is NodeJS ? |  <ul><li> JavaScript Engine </li><li> Benefits of NodeJS </li><li> What is NodeJS </li></ul>|
-| 02. | NodeJS Installation |<ul><li> Steps to install NodeJS What is npm </li></ul>|
+| 02. | NodeJS Installation |<ul><li> Steps to install NodeJS</li><li> What is npm </li></ul>|
 | 03. | Hello World NodeJS| <ul><li> Print Hello World using NodeJS </li></ul>|
 | 04. | Modules in NodeJS |<ul><li> Spiliting funtions using modular approch<li> De-structring</li></ul>  |
 | 05. | File Handling in NodeJS |<ul><li> File Handling Module (fs)<li> Synchronous call and Async call in fs module<li> CRUD operation on files. </li></ul> |
@@ -14,7 +14,7 @@ Following Mastering NodeJS tutorial of Piyush Garg.
 | 09. | Http methods |<ul><li> GET , POST , PUT , PATCH , DELETE<li> Make All these requests using Http mehtod </li></ul>|
 | 10. | Getting Start with Express |<ul><li> Installing express<li> Made express server and requests </li></ul>|
 | 11. | How Versioning Works in NodeJS ? |<ul><li> About Versioning of NodeJS<li> Minor Fix, Recommended Bug Fix , Major Realese </li></ul>|
-| 12. | What is Rest API ? |<ul><li> Restfull API Rules <li> Work on Client Server Architecture <li> All Respect all Http methods </li></ul>|
+| 12. | What is Rest API ? |<ul><li> Restfull API Rules <li> Work on Client Server Architecture <li> Respect all Http methods </li></ul>|
 | 13. | Building Rest API using NodeJS and Express | |
 | 14. | Intro to Postman for Rest API | |
 | 15. | Express Middleware | |
