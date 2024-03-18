@@ -15,15 +15,15 @@ Following Mastering NodeJS tutorial of Piyush Garg.
 | 10. | Getting Start with Express |<ul><li> Installing express<li> Made express server and requests </li></ul>|
 | 11. | How Versioning Works in NodeJS ? |<ul><li> About Versioning of NodeJS<li> Minor Fix, Recommended Bug Fix , Major Realese </li></ul>|
 | 12. | What is Rest API ? |<ul><li> Restfull API Rules <li> Work on Client Server Architecture <li> Respect all Http methods </li></ul>|
-| 13. | Building Rest API using NodeJS and Express | |
-| 14. | Intro to Postman for Rest API | |
-| 15. | Express Middleware | |
-| 16. | What are Http Headers in API | |
-| 17. | Http Status Codes | |
-| 18. | Getting Started with MongoDB | |
-| 19. | Connecting NodeJS with MongoDB | |
-| 20. | Model View Controller in NodeJS | |
-| 21. | Custom URl Shortner ||
-| 22. | Server Side Rendering with EJS and NodeJS | |
-| 23. | Building Node.js Authentication from Scratch | | 
+| 13. | Building Rest API using NodeJS and Express |<ul><li>Api to list all the users</li> <li>Uses Dynamic Path Parameter to show user </li> <li>Api to create a new user </li> <li>Api to delete user  </ul> |
+| 14. | Intro to Postman for Rest API | <ul><li>Uses POSTMAN app to create apis</li></ul> |
+| 15. | Express Middleware | <ul><li>What is middleware</li> <li>Middleware functions</li></ul> |
+| 16. | What are Http Headers in API | <ul> <li>What are http Headers in API ?</li> </ul> |
+| 17. | Http Status Codes | <ul><li>Status Code</li> <li> Types of Responses </li> </ul> |
+| 18. | Getting Started with MongoDB |<ul><li>What is MongoDB ?</li> <li>Commands of MongoDB</li> </ul> |
+| 19. | Connecting NodeJS with MongoDB | <ul><li>What is Mongoose?</li> <li>What are the schema?</li><ul> |
+| 20. | Model View Controller in NodeJS | <ul><li>Model View Controller</li></ul>|
+| 21. | Custom URl Shortner | <ul><li>Started the URL Shortner Project</li></ul>|
+| 22. | Server Side Rendering with EJS and NodeJS | <ul><li> Uses EJS for Server side rendering for URL Shortner</li></ul> |
+| 23. | Building Node.js Authentication from Scratch |<ul><li>Authentication </li> <li>Authentication Patterns - Stateless & Statefull</li> <li>How to transfer uid?</li> <li>Express flow of authentication</li></ul> | 
 
