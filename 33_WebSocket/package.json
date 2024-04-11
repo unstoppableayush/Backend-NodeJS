@@ -1,0 +1,15 @@
+{
+  "name": "33_websocket",
+  "version": "1.0.0",
+  "description": "- In general , We send request to the server , server responds to our request and request-response cycle will be closed.\r - Communication is single direction. Client request then Server responds (req-res cycle closed)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "socket.io": "^4.7.5"
+  }
+}
