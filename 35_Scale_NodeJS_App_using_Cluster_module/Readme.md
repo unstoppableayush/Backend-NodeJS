@@ -1,4 +1,4 @@
-# 
+# Scale NodeJS application using the cluster module
 
 - Multiple users concurrently accesing the server then Workload increases.
 - When users increases then we can use clusters.
