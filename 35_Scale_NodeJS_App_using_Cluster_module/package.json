@@ -1,0 +1,14 @@
+{
+  "name": "35_scale_nodejs_app_using_cluster_module",
+  "version": "1.0.0",
+  "description": "- Multiple users concurrently accesing the server then Workload increases.\r - When users increases then we can use clusters.\r - We distribute the workload on server into multiple apllication threads of nodejs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
