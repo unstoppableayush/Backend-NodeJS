@@ -33,5 +33,6 @@ Following Mastering NodeJS tutorial of Piyush Garg.
 | 28. | Uploading Files with Multer ||
 | 29. | Setting Up Project - Blog App ||
 | 30. | Setting Up Authentication - Blog App ||
+| 31. | Complete Blog App ||
 
 
