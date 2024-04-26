@@ -34,5 +34,12 @@ Following Mastering NodeJS tutorial of Piyush Garg.
 | 29. | Setting Up Project - Blog App ||
 | 30. | Setting Up Authentication - Blog App ||
 | 31. | Complete Blog App ||
+| 32. | Deploy NodeJS App on Cloud ||
+| 33. | Websocket ||
+| 34. | Streams ||
+| 35. | Scale NodeJS app using Cluster module ||
+| 36. | What is Nginx ? ||
+| 37. | Install & Setup Nginx ||
+
 
 
