@@ -40,6 +40,6 @@ Following Mastering NodeJS tutorial of Piyush Garg.
 | 35. | Scale NodeJS app using Cluster module ||
 | 36. | What is Nginx ? ||
 | 37. | Install & Setup Nginx ||
-
+| 42. | GraphQL ||
 
 
