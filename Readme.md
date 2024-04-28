@@ -27,7 +27,7 @@ Following Mastering NodeJS tutorial of Piyush Garg.
 | 22. | Server Side Rendering with EJS and NodeJS | <ul><li> Uses EJS for Server side rendering for URL Shortner</li></ul> |
 | 23. | Building Node.js Authentication from Scratch |<ul><li>Authentication </li> <li>Authentication Patterns - Stateless & Statefull</li> <li>How to transfer uid?</li> <li>Express flow of authentication</li></ul> | 
 | 24. | JWT Authentication |<ul><li> Problems in Statefull Authentication </li><li> Stateless Authentication</li></ul> |
-| 25. | What are Cookies ? | |
+| 25. | What are Cookies ? | <ul><li>Cookies in NodeJS</li> <li> Create cookies using - Browser, Header </li></ul> |
 | 26. | Authorization ||
 | 27. | Creating Discord Bot in NodeJS | |
 | 28. | Uploading Files with Multer ||
