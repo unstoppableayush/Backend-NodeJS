@@ -28,18 +28,18 @@ Following Mastering NodeJS tutorial of Piyush Garg.
 | 23. | Building Node.js Authentication from Scratch |<ul><li>Authentication </li> <li>Authentication Patterns - Stateless & Statefull</li> <li>How to transfer uid?</li> <li>Express flow of authentication</li></ul> | 
 | 24. | JWT Authentication |<ul><li> Problems in Statefull Authentication </li><li> Stateless Authentication</li></ul> |
 | 25. | What are Cookies ? | <ul><li>Cookies in NodeJS</li> <li> Create cookies using - Browser, Header </li></ul> |
-| 26. | Authorization ||
-| 27. | Creating Discord Bot in NodeJS | |
-| 28. | Uploading Files with Multer ||
-| 29. | Setting Up Project - Blog App ||
-| 30. | Setting Up Authentication - Blog App ||
-| 31. | Complete Blog App ||
-| 32. | Deploy NodeJS App on Cloud ||
-| 33. | Websocket ||
-| 34. | Streams ||
-| 35. | Scale NodeJS app using Cluster module ||
-| 36. | What is Nginx ? ||
-| 37. | Install & Setup Nginx ||
-| 42. | GraphQL ||
+| 26. | Authorization |<ul><li>What is Authorization?</li> <li>How authorization works? </li></ul>|
+| 27. | Creating Discord Bot in NodeJS | <ul><li>How to make Discord Bot?</li></ul> |
+| 28. | Uploading Files with Multer |<ul><li>Steps to upload file with Multer</li></ul> |
+| 29. | Setting Up Project - Blog App | <ul><li>Started Blog App</li><li>Steps to Create Blog App</li></ul>|
+| 30. | Setting Up Authentication - Blog App |<ul><li>Started Blog App</li><li>Steps to Create Authentication </li></ul>|
+| 31. | Complete Blog App |<ul><li>Completed the Blog App</li></ul>|
+| 32. | Deploy NodeJS App on Cloud |<ul><li>Learned about `.env` file</li><li>Steps to deploy NodeJS app on Cloud</li></ul>|
+| 33. | Websocket |<ul><li>What is WebSocket?</li><li>What is the Problem on Other Protocol ?</li></li><li>How could be solved via WebSocket using `Socket.io` Library?</li></ul>|
+| 34. | Streams |<ul><li>What is Streams in NodeJS?</li><li>What is the Problem?</li></li><li>How could be solved via Streams?</li></ul>|
+| 35. | Scale NodeJS app using Cluster module |<ul><li>Problem</li><li>Solution</li></ul>|
+| 36. | What is Nginx ? |<ul><li>What is Nginx?</li><li>Advantage</li></ul>|
+| 37. | Install & Setup Nginx |<ul><li>Installation of Nginx on Docker</li><li>Stpes to Install</li></ul>|
+| 42. | GraphQL |<ul><li>What is GraphQL?</li><li>Problems Solved by GraphQL</li><li>What is Axios?</li></ul>|
 
 
